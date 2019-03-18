@@ -1,11 +1,16 @@
 _repo: Poker-Jim-Gentleman-and-other-Tales-and-Sketches_59050
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59050-h/images/cover.jpg
 creator:
   author:
     agent_name: Lydston, Frank G.
     gutenberg_agent_id: '50272'
     url: http://www.gutenberg.org/2009/agents/50272
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59050#Poker-Jim-Gentleman-and-other-Tales-and-Sketches
 gutenberg_issued: '2019-03-11'
 gutenberg_type: Text
 identifiers:
